@@ -1,0 +1,17 @@
+
+#horarioTitulo{
+	background-color: #00B7FF;
+}
+
+.horarioSeta{
+	float: right;
+	color: #C3C3C3;
+}
+
+.horarioCollapse{
+	background-color: #CCF1FF;
+}
+
+.horarioCollapse:hover{
+	background-color: #ABE7FF;
+}
