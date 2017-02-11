@@ -2,6 +2,7 @@
 
 
 
+
 /*.row.match-my-cols {
     overflow: hidden; 
 }
@@ -29,3 +30,27 @@
     height: auto;
     width: 100%;
 }
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
+/* Slider - home-page */
+.carousel-inner {
+  background-image: url("../images/background-slider.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height:100%;
+}
+.carousel-caption{
+  top:150px;
+}
+
+#titles {
+  color: #139871;
+  background-color: white;
+  -webkit-text-shadow: none;
+    text-shadow: none;
+}
+
