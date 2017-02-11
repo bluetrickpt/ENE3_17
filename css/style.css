@@ -1,4 +1,31 @@
-.clearfix {
-  overflow: auto;
-  zoom: 1;
+
+
+
+
+/*.row.match-my-cols {
+    overflow: hidden; 
+}
+
+.row.match-my-cols [class*="col-"]{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}*/
+
+
+.transport{
+	text-align: center;
+}
+
+
+.pie {
+    display: table;
+}
+.pie a {
+    vertical-align: middle;
+    display: table-cell;
+}
+.pie img {
+    display: block;
+    height: auto;
+    width: 100%;
 }
