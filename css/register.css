@@ -1,0 +1,8 @@
+#payment_plans {
+	display:table;
+}
+
+#payment-plan {
+	padding: 10px;
+	display:table-cell;
+}
