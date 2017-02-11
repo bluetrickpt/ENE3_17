@@ -19,9 +19,14 @@ html[xmlns] .clearfix {
     height: 1%;
 }
 
+.container {
+	padding: 15px;
+}
+
 .navbar {
   padding: 15px;
   font-size: 20px;
+  margin-bottom: 100px;
 }
 
 .navbar .navbar-collapse {
