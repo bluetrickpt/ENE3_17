@@ -1,0 +1,47 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="http://v4.pingendo.com/assets/bootstrap/themes/default.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div id="header"></div>
+  <div class="section section-fill-height section-opaque-dark text-xs-center">
+    <div class="background-image" style="background-image: url(&quot;http://v4.pingendo.com/assets/photos/apple/cover-1.jpg&quot;);"></div>
+  </div>
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="carousel slide" data-interval="false" data-ride="carousel" id="carousel-example" draggable="true">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="img-fluid" src="https://unsplash.imgix.net/photo-1423683249427-8ca22bd873e0?w=1024&amp;q=50&amp;fm=jpg&amp;s=5e57c661d0f772ce269188a6f5325708">
+                <div class="carousel-caption">
+                  <h2>Slide 1</h2>
+                </div>
+              </div>
+            </div>
+            <a class="left carousel-control" href="#carousel-example" data-slide="prev"><i class="icon-prev  fa fa-angle-left"></i></a>
+            <a class="right carousel-control" href="#carousel-example" data-slide="next"><i class="icon-next fa fa-angle-right"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="footer"></div>
+  
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/js/bootstrap.js" type="text/javascript"></script>
+  <script>
+    $(function(){
+      $("#header").load("header.html"); 
+      $("#footer").load("footer.html"); 
+    });
+  </script>
+
+
+</body>
