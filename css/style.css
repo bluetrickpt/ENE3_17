@@ -37,3 +37,40 @@ nav.navbar.shrink {
 	background-color: #f8f8f8;
 	padding: 10px;
 }
+
+.transport{
+	text-align: center;
+}
+
+
+.pie {
+    display: table;
+}
+.pie a {
+    vertical-align: middle;
+    display: table-cell;
+}
+.pie img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+/* Slider - home-page */
+.carousel-inner {
+  background-image: url("../images/background-slider.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height:100%;
+}
+.carousel-caption{
+  top:150px;
+}
+
+#titles {
+  color: #139871;
+  background-color: white;
+  -webkit-text-shadow: none;
+    text-shadow: none;
+}
+
