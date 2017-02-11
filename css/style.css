@@ -1,4 +1,39 @@
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+ 
 .clearfix {
-  overflow: auto;
-  zoom: 1;
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+ 
+* html .clearfix {
+    height: 1%;
+}
+
+.navbar {
+  padding: 15px;
+  font-size: 20px;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+nav.navbar.shrink {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.footer {
+	background-color: #f8f8f8;
+	padding: 10px;
 }
