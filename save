@@ -1,0 +1,74 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="http://v4.pingendo.com/assets/bootstrap/themes/default.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div id="header">
+    <div class="p-y-3 section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h1 class="text-primary">ENE3</h1>
+            <h3>O Evento</h3>
+            <p class="lead text-justify">O <b>Encontro Nacional de Estudantes de Engenharia Eletrotécnica&nbsp;</b><span style="font-size: 1.25rem; line-height: 1.5;"><b>(ENE3) </b>é um evento anual organizado por e para estudantes da&nbsp;</span><span style="font-size: 1.25rem; line-height: 1.5;">área, tendo como principal objetivo juntar num espaço alunos&nbsp;</span>
+              <span style="font-size: 1.25rem; line-height: 1.5;">vindos de todo o país e proporcionando um vasto leque de&nbsp;</span><span style="font-size: 1.25rem; line-height: 1.5;">atividades no âmbito da Engenharia Eletrotécnica.</span>&nbsp;
+              <br>
+              <br>O evento conta já com sete edições, fundado em <b>Coimbra</b>, está&nbsp;<span style="font-size: 1.25rem; line-height: 1.5;">de volta à cidade-mãe pela terceira vez. A realização do ENE3-8&nbsp;</span><span style="font-size: 1.25rem; line-height: 1.5;">está prevista para <b>1 a 4 de Setembro de 2017</b>.</span>
+              <br>
+              <br>É um evento que junta alunos de todos os cursos de Engenharia&nbsp;<span style="font-size: 1.25rem; line-height: 1.5;">Eletrotécnica do país. Além de ser o maior curso da Faculdade&nbsp;</span><span style="font-size: 1.25rem; line-height: 1.5;">de Ciências e Tecnologia e de Computadores da Universidade de&nbsp;</span>
+              <span style="font-size: 1.25rem; line-height: 1.5;">Coimbra, no que diz respeito ao número de alunos, contando em&nbsp;</span><span style="font-size: 1.25rem; line-height: 1.5;">2016 com 630 alunos, Engenharia Eletrotécnica tem curso em&nbsp;</span>
+              <span
+              style="font-size: 1.25rem; line-height: 1.5;">imensas escolas em todo o país desde Braga a Faro, passando&nbsp;</span>
+                <span style="font-size: 1.25rem; line-height: 1.5;">pelo Porto, Aveiro, Leiria, Lisboa, Covilhã, entre outros.</span>
+                <br>
+                <br>Por ter um público alvo muito grande, é objetivo da Comissão&nbsp;<span style="font-size: 1.25rem; line-height: 1.5;">Organizadora do ENE3-8 aumentar o público do evento para&nbsp;</span><span style="font-size: 1.25rem; line-height: 1.5;">perto das duas centenas de participantes</span></p>
+            <p></p>
+            <div></div>
+            <br>
+
+            <p></p>
+            <div>
+              <br>
+            </div>
+            <br>
+
+            <br>
+
+            <p></p>
+          </div>
+          <div class="col-md-6">
+            <img src="http://v4.pingendo.com/assets/photos/business/photo-1.jpg" class="img-fluid text-nowrap">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <script>
+        $(function(){
+          $("#header").load("header.html"); 
+          $("#footer").load("footer.html"); 
+        });
+      </script>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
