@@ -1,0 +1,17 @@
+.transport{
+	text-align: center;
+}
+
+.pie {
+    display: table;
+}
+
+.pie a {
+    vertical-align: middle;
+    display: table-cell;
+}
+.pie img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
