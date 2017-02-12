@@ -47,3 +47,12 @@ nav.navbar.shrink {
 .container.primary {
 	min-height: 100vh;
 }
+
+.footer-partner {
+	margin: 0 auto;
+	display: block;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
