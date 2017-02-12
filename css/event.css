@@ -2,16 +2,22 @@
 	text-align: center;
 }
 
-.pie {
-    display: table;
+.pie{
+	display: table;
+	table-layout: fixed;
 }
 
-.pie a {
+.pie .box {
     vertical-align: middle;
     display: table-cell;
+
 }
-.pie img {
-    display: block;
-    height: auto;
+
+.box img {
+	display: block;
     width: 100%;
+}
+
+.item {
+	padding-left: 0px !important;
 }
