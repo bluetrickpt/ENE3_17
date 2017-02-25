@@ -9,9 +9,6 @@
   top:150px;
 }
 
-#titles {
-  color: #139871;
-  background-color: white;
-  -webkit-text-shadow: none;
-    text-shadow: none;
+.titles {
+	background-color: white;
 }
