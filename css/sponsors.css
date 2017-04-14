@@ -1,14 +1,18 @@
 .big {
-    max-height: 500px;
-    max-width: 500px;
+    max-height: 300px;
+    max-width: 300px;
 }
 
 .medium {
-    max-height: 350px;
-    max-width: 350px;
+    max-height: 200px;
+    max-width: 200px;
 }
 
 .small {
-    max-height: 250px;
-    max-width: 250px;
+    max-height: 125px;
+    max-width: 125px;
+}
+
+table {
+    border: 1px solid black;
 }
