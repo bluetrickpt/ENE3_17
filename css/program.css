@@ -1,11 +1,11 @@
 
 #horarioTitulo{
-	background-color: #00B7FF;
+	background-color:  #139871 ;
 }
 
 .horarioSeta{
 	float: right;
-	color: #C3C3C3;
+	color: #139871;
 }
 
 .horarioCollapse{
@@ -14,6 +14,16 @@
 
 .horarioCollapse:hover{
 	background-color: #ABE7FF;
+}
+
+.nav-tabs>li>a {
+	color: #139871;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.panel-title {
+	font-weight: bold;
 }
 
 /*.day-pill {
