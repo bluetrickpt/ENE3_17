@@ -1,10 +1,14 @@
 .big {
-
+    max-height: 500px;
+    max-width: 500px;
 }
 
 .medium {
+    max-height: 350px;
+    max-width: 350px;
 }
 
 .small {
-
+    max-height: 250px;
+    max-width: 250px;
 }
