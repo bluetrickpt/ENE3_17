@@ -1,16 +1,16 @@
 .big {
-    max-height: 300px;
-    max-width: 300px;
+    max-height: 250px;
+    max-width: 250px;
 }
 
 .medium {
-    max-height: 200px;
-    max-width: 200px;
+    max-height: 170px;
+    max-width: 170px;
 }
 
 .small {
-    max-height: 125px;
-    max-width: 125px;
+    max-height: 110px;
+    max-width: 110px;
 }
 
 table {
