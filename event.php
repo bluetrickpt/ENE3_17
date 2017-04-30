@@ -15,6 +15,8 @@
 
 <body>
 
+  <?php include("analytics/analyticstracking.php"); ?>
+
   <noscript>
     <div class="noscriptmsg">
       <p>You don't have javascript enabled! This worksite will work poorly without javascript.</p>

@@ -23,6 +23,8 @@
     </div>
   </noscript>
 
+  <?php include("analytics/analyticstracking.php"); ?>
+
   <div id="header"></div>
   <div class="section">
     <div class="container primary">
@@ -31,14 +33,14 @@
         O Encontro Nacional de Estudantes de Engenharia Electrotécnica (ENE3) está de volta a Coimbra!
       </h1>
 
-      <h3 style=""> Liberta o teu calendário de <b>1 a 4 de Setembro</b> e vem à belíssima cidade
+      <h3 style=""> Liberta o teu calendário para os dias <b>5, 6, 7 e 8 de Setembro</b> para o ENE3 e vem à belíssima cidade
         de Coimbra para a oitava edição do ENE3! </h3>
 
       <h3>Já conheces o nosso <b>Roadshow</b>?</h3>
       <p>
         Entre 9 e 18 de Maio iremos visitar universidades e institutos por todo o país, para divulgar o ENE3 2017.
         Consulta abaixo a imagem para datas e para saber se passamos na tua instituição. Se tiveres alguma dúvida não
-        hesites em nos contactar (vê <a href="contacts.html">aqui</a> como).
+        hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).
       </p>
 
 
@@ -48,7 +50,15 @@
       </p>
       <div class="clearfix"></div>
 
-      <p>Vem falar connosco! Temos surpresas à tua espera. </p>
+      <p>
+        Estaremos em:</p>
+      <p><b>Dia 9 de Maio:</b> Instituto Superior Técnico // Universidade Nova de Lisboa // Instituto Politécnico de Lisboa</p>
+      <p><b>Dia 11 de Maio:</b> Universidade da Beira Interior</p>
+      <p><b>Dia 15 de Maio:</b> Universidade de Coimbra // Instituto Politécnico de Coimbra</p>
+      <p><b>Dia 16 de Maio:</b> Universidade do Porto // Instituto Politécnico do Porto // Universidade do Minho // Universidade de Trás os Montes e Alto Douro</p>
+      <p><b>Dia 18 de Maio:</b> Instituto Politécnico de Viseu // Universidade de Aveiro</p>
+
+      <p>Vem falar connosco! Temos surpresas à tua espera.</p>
 
       <h3>Newsletter</h3>
 
@@ -59,7 +69,7 @@
             'scrollbars=yes,width=800,height=600');return true">
 
         <p>Desejas receber no teu mail as últimas novidades sobre o ENE3 2017? Inscreve-te já abaixo na nossa newsletter.
-        Não te preocupes, o spam será contido a um mínimo essential.</p>
+          Não te preocupes, o spam será contido a um mínimo essential.</p>
         <label for="tlemail">E-mail:</label>
         <input type="text" style="width:140px" name="email" id="tlemail"/>
 

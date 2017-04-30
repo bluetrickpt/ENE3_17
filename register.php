@@ -15,6 +15,8 @@
 
 <body>
 
+  <?php include("analytics/analyticstracking.php"); ?>
+
   <noscript>
     <div class="noscriptmsg">
       <p>You don't have javascript enabled! This worksite will work poorly without javascript.</p>
@@ -31,7 +33,7 @@
         <h1 class="text-primary">Bilhetes</h1>
 
         <p>Por anunciar! Fica atento às nossas redes sociais. Se tiveres alguma dúvida não
-        hesites em nos contactar (vê <a href="contacts.html">aqui</a> como).</p>
+        hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).</p>
 
         <!--<p>Vê e escolhe qual dos planos que temos disponíveis para ti. Assim que tiveres escolhido o plano,
         segue para o preenchimento da inscrição.

@@ -16,6 +16,7 @@
 </head>
 
 <body>
+	<?php include("analytics/analyticstracking.php"); ?>
 
 	<noscript>
 		<div class="noscriptmsg">
@@ -29,7 +30,7 @@
 
 
 		<p>Por anunciar! Fica atento às nossas redes sociais. Se tiveres alguma dúvida não
-			hesites em nos contactar (vê <a href="contacts.html">aqui</a> como).</p>
+			hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).</p>
 
 		<!--<div class="panel-group">
 			<div class="panel panel-default">
