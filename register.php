@@ -32,48 +32,70 @@
       <div class="col-md-12 item">
         <h1 class="text-primary">Bilhetes</h1>
 
-        <p>Por anunciar! Fica atento às nossas redes sociais. Se tiveres alguma dúvida não
-        hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).</p>
+<!--        <p>Por anunciar! Fica atento às nossas redes sociais. Se tiveres alguma dúvida não-->
+<!--        hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).</p>-->
 
-        <!--<p>Vê e escolhe qual dos planos que temos disponíveis para ti. Assim que tiveres escolhido o plano,
-        segue para o preenchimento da inscrição.
+        <p>Vê e escolhe qual dos planos que temos disponíveis para ti. Assim que souberes o plano que preferes,
+        preenche abaixo a tua inscrição.
         </p>
 
-        <div id="payment_plans">
+          <table class="col-md-12" style="margin-bottom: 15px">
+              <tr>
+                  <th class="col-md-3"><h3>Sem estadia</h3></th>
+                  <th class="col-md-3"><h3>Normal</h3></th>
+                  <th class="col-md-3"><h3>Alojamento</h3></th>
+                  <th class="col-md-3"><h3>Grupos</h3></th>
+              </tr>
+              <tr>
+                  <td>Este pacote inclui todas as despesas do evento, nomeadamente alimentação, exceto as despesas relacionadas
+                      com dormida. Ideal para quem é de Coimbra ou para quem tem alojamento nesta cidade.</td>
+                  <td>Este pacote inclui todas as despesas do evento e dormida em colchão em pavilhão.
+                      Ideal para quem prefere um ambiente de maior convívio.</td>
+                  <td>Este pacote inclui todas as despesas do evento e dormida em cama que poderá ser em pousada ou residência.
+                      Ideal para quem prefere um ambiente mais calmo e confortável.</td>
+                  <td>Este pacote inclui todas as vantagens do pacote Normal sendo adquirido, em simultâneo, por 5 pessoas.</td>
+              </tr>
+              <tr>
+                  <td><b>Preço:</b> 25€</td>
+                  <td><b>Preço:</b> 30€</td>
+                  <td><b>Preço:</b> 45€</td>
+                  <td><b>Preço:</b> 20€</td>
+              </tr>
+          </table>
+
+          <p>Se estás a pensar vir de comboio, podes consultar <a href="event.php#discounts">aqui</a> os descontos promocionais que arranjámos para ti.</p>
+
+        <!--<div id="payment_plans">
           <div class="col-md-3" id="payment-plan">
-              <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+             <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
               class="img-responsive">
-              <h2>Diário</h2>
-              <p>Este plano dá-te direito a participares a todas as actividades de um dia
-                à tua escolha. Se quiseres participar apenas num dia específico, este é
-                o plano ideial!</p>
+              <h3>Sem estadia</h3>
+              <p>Este pacote inclui todas as despesas do evento, nomeadamente alimentação, exceto as despesas relacionadas
+                  com dormida. Ideal para quem é de Coimbra ou para quem tem alojamento nesta cidade.</p>
             </div>
             <div class="col-md-3" id="payment-plan">
-              <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-              class="img-responsive">
-              <h2>A title</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-                <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-                <br>Ut enim ad minim veniam, quis nostrud</p>
+
+                <h3>Normal</h3>
+                <p>Este pacote inclui todas as despesas do evento e dormida em colchão em pavilhão.
+                    Ideal para quem prefere um ambiente de maior convívio.</p>
             </div>
             <div class="col-md-3" id="payment-plan">
-              <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-              class="img-responsive img-rounded">
-              <h2>A title</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-                <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-                <br>Ut enim ad minim veniam, quis nostrud</p>
+
+              <h3>Alojamento</h3>
+              <p>Este pacote inclui todas as despesas do evento e dormida em cama que poderá ser em pousada ou residência.
+                  Ideal para quem prefere um ambiente mais calmo e confortável.</p>
             </div>
             <div class="col-md-3" id="payment-plan">
-              <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-              class="img-responsive">
-              <h2>Completo</h2>
-              <p contenteditable="true">Este plano dá te acesso a todas as actividades e ainda dormida para as
-                duas noites. Se quiseres aproveitar o evento ao máximo, então este plano
-                é para ti.</p>
+
+              <h3>Grupos</h3>
+              <p>Este pacote inclui todas as vantagens do pacote Normal sendo adquirido, em simultâneo, por 5 pessoas.</p>
             </div>
           </div>-->
+
+
+
         </div>
+
       </div>
    
 
@@ -81,15 +103,17 @@
       <div class="col-md-12 item">
         <h1 class="text-primary">Inscrições</h1>
 
-        <p>As inscrições abrirão assim que anunciarmos os diferentes bilhetes disponíveis.</p>
+<!--        <p>As inscrições abrirão assim que anunciarmos os diferentes bilhetes disponíveis.</p>-->
 
-        <!--<p> Preenche o formulário abaixo para te inscreveres no ENEEE Coimbra 2017. Se precisares de ajuda, contacta-nos para pelo mail <a href="mailto:ene3.2017@gmail.com">ene3.2017@gmail.com</a> ou no <a href="">facebook</a>.</p>
+        <p> Preenche o formulário abaixo para te inscreveres no ENEEE Coimbra 2017. Se precisares de ajuda,
+            contacta-nos para pelo mail <a href="mailto:ene3.2017@gmail.com">ene3.2017@gmail.com</a> ou no <a href="">facebook</a>.</p>
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPJIdrniVkXJOwv_vQWB4uhQTKiieVqC0SSJmP9Y7sJIIU5w/viewform?embedded=true" width=100% height=100% frameborder="0" marginheight="0" marginwidth="0">A carregar...</iframe>
-        -->
+
       </div>
     </div>
   </div>
 
+  <?php include("cp/cp.php"); ?>
   <div id="footer"></div>
 
 

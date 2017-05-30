@@ -47,6 +47,7 @@
  
   </div>
 
+  <?php include("cp/cp.php"); ?>
   <div id="footer"></div>
 
 

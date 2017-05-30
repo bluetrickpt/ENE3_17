@@ -38,7 +38,7 @@
 
       <h3>Já conheces o nosso <b>Roadshow</b>?</h3>
       <p>
-        Entre 9 e 18 de Maio iremos visitar universidades e institutos por todo o país, para divulgar o ENE3 2017.
+        Entre 23 e 26 de Maio iremos visitar universidades e institutos por todo o país, para divulgar o ENE3 2017.
         Consulta abaixo a imagem para datas e para saber se passamos na tua instituição. Se tiveres alguma dúvida não
         hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).
       </p>
@@ -50,13 +50,12 @@
       </p>
       <div class="clearfix"></div>
 
-      <p>
-        Estaremos em:</p>
-      <p><b>Dia 9 de Maio:</b> Instituto Superior Técnico // Universidade Nova de Lisboa // Instituto Politécnico de Lisboa</p>
-      <p><b>Dia 11 de Maio:</b> Universidade da Beira Interior</p>
-      <p><b>Dia 15 de Maio:</b> Universidade de Coimbra // Instituto Politécnico de Coimbra</p>
-      <p><b>Dia 16 de Maio:</b> Universidade do Porto // Instituto Politécnico do Porto // Universidade do Minho // Universidade de Trás os Montes e Alto Douro</p>
-      <p><b>Dia 18 de Maio:</b> Instituto Politécnico de Viseu // Universidade de Aveiro</p>
+        <p>
+            Estaremos em:</p>
+        <p><b>Dia 23 de Maio:</b> Faculdade de Engenharia do Porto // Universidade de Aveiro</p>
+        <p><b>Dia 24 de Maio:</b> Universidade de Coimbra // Instituto Politécnico de Coimbra</p>
+        <p><b>Dia 25 de Maio:</b> Instituto Técnico de Lisboa // Instituto Politécnico de Leiria</p>
+        <p><b>Dia 26 de Maio:</b> Universidade da Beira Interior // Universidade do Minho</p>
 
       <p>Vem falar connosco! Temos surpresas à tua espera.</p>
 
@@ -104,6 +103,7 @@
     </div>
   </div>
 
+  <?php include("cp/cp.php"); ?>
   <div id="footer"></div>
 
 

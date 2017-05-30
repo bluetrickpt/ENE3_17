@@ -69,8 +69,8 @@
         </div>
 
         <div class="row col-md-12">
-          <h1 class="text-primary">Coimbra</h1>
-          <h3>Acessibilidade</h3>
+          <h1 class="text-primary">Acessibilidade</h1>
+          <h3>Direções</h3>
 
           <div class="map-box bottom-padding col-md-12" style="margin:35px">
             <p style="text-align:center;">
@@ -98,11 +98,45 @@
               </p>
             </div>
           </div>
+
+            <h3 id="discounts">Descontos</h3>
+
+            <p>Se estás a pensar vir de comboio, temos as seguinte promoções oferecidas pela CP (Comboios de Portugal):</p>
+
+            <ul>
+                <li>30% de desconto na aquisição de bilhetes para os comboios Intercidades, Regionais e Inter-Regionais;</li>
+                <li>Promoção 4€ nos bilhetes dos comboios Urbanos de Coimbra;</li>
+                <li>Tipo de bilhete: ida e volta obrigatoriamente;</li>
+                <li>Os bilhetes terão que ter Coimbra  / Coimbra-B como destino da viagem de ida;</li>
+                <li>O desconto é obtido mediante a apresentação de comprovativo nominativo de inscrição no evento (receberás o comprovativo da nossa parte após a tua inscrição) + documento de identificação pessoal;</li>
+                <li>A prova de direito ao desconto é efetuada no ato da compra e em trânsito, no ato da revisão;</li>
+                <li>Não cumulativo com outros descontos ou promoções em vigor;</li>
+                <li>Reembolsável;</li>
+                <li>Revalidações apenas possíveis dentro do período de validade do desconto (ver nota abaixo), fora do qual o terás que pagar a diferença para bilhete inteiro;</li>
+                <li>Não é aceite Cheque Trem como forma de pagamento.</li>
+            </ul>
+            <p><b>Nota:</b> válido de 04 e 09 de setembro de 2017;</p>
+
+            <p>Poderás também optar pela aquisição dos bilhetes com os seguintes descontos: </p>
+
+            <ul>
+                <li><a target="_blank" href="http://www.cp.pt/passageiros/pt/descontos-vantagens/descontos/jovem">Desconto jovem de 25% (até aos 25 anos, inclusive);</a></li>
+
+                <li><a target="_blank" href="http://www.cp.pt/passageiros/pt/descontos-vantagens/descontos/compra-antecipada">Desconto por compra antecipada até 65%;</a></li>
+
+                <li><a target="_blank" href="www.cp.pt/passageiros/pt/como-viajar/em-grupo">Viagens de grupo;</a></li>
+
+            </ul>
+
+            O link para comprar os bilhetes é o seguinte: <a target="_blank" href=http://www.cp.pt/passageiros/pt/comprar-bilhetes>http://www.cp.pt/passageiros/pt/comprar-bilhetes</a>.
+            Se tiveres alguma dúvida não hesites em nos <a href="contacts.php">contactar</a>.
         </div>
+
 
 
     </div>
 
+  <?php include("cp/cp.php"); ?>
   <div id="footer"></div>
 
 
