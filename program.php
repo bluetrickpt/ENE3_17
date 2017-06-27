@@ -38,30 +38,30 @@
 
                 <ul class="nav nav-tabs" role="tablist">
                     <li role="presentation" class="active day-pill">
+                        <a href="#terça" aria-controls="terça" role="tab" data-toggle="tab">// Terça-Feira //</a>
+                    </li>
+                    <li role="presentation" class="day-pill">
+                        <a href="#quarta" aria-controls="quarta" role="tab" data-toggle="tab">// Quarta-Feira //</a>
+                    </li>
+                    <li role="presentation" class="day-pill">
+                        <a href="#quinta" aria-controls="quinta" role="tab" data-toggle="tab">// Quinta-Feira //</a>
+                    </li>
+                    <li role="presentation" class="day-pill">
                         <a href="#sexta" aria-controls="sexta" role="tab" data-toggle="tab">// Sexta-Feira //</a>
-                    </li>
-                    <li role="presentation" class="day-pill">
-                        <a href="#sabado" aria-controls="sabado" role="tab" data-toggle="tab">// Sabado //</a>
-                    </li>
-                    <li role="presentation" class="day-pill">
-                        <a href="#domingo" aria-controls="domingo" role="tab" data-toggle="tab">// Domingo //</a>
-                    </li>
-                    <li role="presentation" class="day-pill">
-                        <a href="#segunda" aria-controls="segunda" role="tab" data-toggle="tab">// Segunda-Feira //</a>
                     </li>
                 </ul>
 
                 <div class="tab-content">
 
-                    <div role="tabpanel" class="tab-pane active" id="sexta">
+                    <div role="tabpanel" class="tab-pane active" id="terça">
                         <div class="panel-heading" id="horarioTitulo">
                             <h4 class="panel-title">
                                 9:00
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#sextarecepcao9"  class="panel-body horarioCollapse">9:00 - 12:00 // Recepção <span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#terçarecepcao9"  class="panel-body horarioCollapse">9:00 - 12:00 // Recepção <span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="sextarecepcao9" class="panel-collapse collapse">
+                        <div id="terçarecepcao9" class="panel-collapse collapse">
                             <div class="panel-body">Receção e mini-feira de apresentação de projectos.</div>
                         </div>
 
@@ -71,9 +71,9 @@
                                 12:00
                             </h4>
                         </div>
-                        <div  href="#sextaalmoco12"  class="panel-body">12:00 - 14:00 // Almoço
+                        <div  href="#terçaalmoco12"  class="panel-body">12:00 - 14:00 // Almoço
                         </div>
-                        <div id="sextaalmoco12" class="panel-collapse collapse">
+                        <div id="terçaalmoco12" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -84,7 +84,7 @@
                         </div>
                         <div  data-toggle="" href=""  class="panel-body">14:00 - 16:00 // Sessão de Abertura<span class=""/>
                         </div>
-                        <!--div id="sextasessaodeabertura14" class="panel-collapse collapse">
+                        <!--div id="terçasessaodeabertura14" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>-->
 
@@ -94,9 +94,9 @@
                                 16:00
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#sextavisitaasinstalacoes15"  class="panel-body horarioCollapse">16:00 - 18:00 // Visita às Instalações<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#terçavisitaasinstalacoes15"  class="panel-body horarioCollapse">16:00 - 18:00 // Visita às Instalações<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="sextavisitaasinstalacoes15" class="panel-collapse collapse">
+                        <div id="terçavisitaasinstalacoes15" class="panel-collapse collapse">
                             <div class="panel-body">Visita ao Instituto de Sistemas e Robótica (ISR), Instituto de Telecomunicações
                                 (IT) e Laboratórios, com demonstrações de projectos.</div>
                         </div>
@@ -107,9 +107,9 @@
                                  18:00
                             </h4>
                         </div>
-                        <div  href="#sextaactividadecultural18"  class="panel-body">18:00 - 20:00 //  Por anunciar
+                        <div  href="#terçaactividadecultural18"  class="panel-body">18:00 - 20:00 //  Por anunciar
                         </div>
-                        <div id="sextaactividadecultural18" class="panel-collapse collapse">
+                        <div id="terçaactividadecultural18" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -121,9 +121,9 @@
                             </h4>
                         </div>
 
-                        <div  href="#sextajantar20"  class="panel-body">20:00 - 21:00 // Jantar
+                        <div  href="#terçajantar20"  class="panel-body">20:00 - 21:00 // Jantar
                         </div>
-                        <div id="sextajantar20" class="panel-collapse collapse">
+                        <div id="terçajantar20" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -134,9 +134,9 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#sextaactividadecultural21"  class="panel-body horarioCollapse">21:00 - 23:00 // Actividade Cultural<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#terçaactividadecultural21"  class="panel-body horarioCollapse">21:00 - 23:00 // Actividade Cultural<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="sextaactividadecultural21" class="panel-collapse collapse">
+                        <div id="terçaactividadecultural21" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -144,7 +144,7 @@
 
 
                     <!--Sábado -->
-                    <div role="tabpanel" class="tab-pane" id="sabado">
+                    <div role="tabpanel" class="tab-pane" id="quarta">
 
                         <div class="panel-heading" id="horarioTitulo">
                             <h4 class="panel-title">
@@ -152,9 +152,9 @@
 
                             </h4>
                         </div>
-                        <div  href="#sabadopequenoalmoco8"  class="panel-body">8:00 - 9:00 // Pequeno-Almoço
+                        <div  href="#quartapequenoalmoco8"  class="panel-body">8:00 - 9:00 // Pequeno-Almoço
                         </div>
-                        <div id="sabadopequenoalmoco8" class="panel-collapse collapse">
+                        <div id="quartapequenoalmoco8" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -164,9 +164,9 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#sabadoworkshops9"  class="panel-body horarioCollapse">9:00 - 12:00 // Workshops<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quartaworkshops9"  class="panel-body horarioCollapse">9:00 - 12:00 // Workshops<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="sabadoworkshops9" class="panel-collapse collapse">
+                        <div id="quartaworkshops9" class="panel-collapse collapse">
                             <div class="panel-body">
                                 <ul>
                                     <li>
@@ -190,9 +190,9 @@
 
                             </h4>
                         </div>
-                        <div  href="#sabadoalmoco12"  class="panel-body">12:00 - 14:00 // Almoço
+                        <div  href="#quartaalmoco12"  class="panel-body">12:00 - 14:00 // Almoço
                         </div>
-                        <div id="sabadoalmoco12" class="panel-collapse collapse">
+                        <div id="quartaalmoco12" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -202,9 +202,9 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#sabadopalestra14"  class="panel-body horarioCollapse">14:00 - 16:00 // Palestras<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quartapalestra14"  class="panel-body horarioCollapse">14:00 - 16:00 // Palestras<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="sabadopalestra14" class="panel-collapse collapse">
+                        <div id="quartapalestra14" class="panel-collapse collapse">
                             <div class="panel-body">
                                 <ul>
                                     <li>Python - Data Science com Ricardo Pereira</li>
@@ -233,14 +233,14 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#sabadofeiradeemprego16"  class="panel-body horarioCollapse">16:00 - 20:00 // Feira de Emprego<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quartafeiradeemprego16"  class="panel-body horarioCollapse">16:00 - 20:00 // Feira de Emprego<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="sabadofeiradeemprego16" class="panel-collapse collapse">
+                        <div id="quartafeiradeemprego16" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
-                        <div  data-toggle="collapse" href="#sabadoworkshops16"  class="panel-body horarioCollapse">16:00 - 20:00 // Workshops<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quartaworkshops16"  class="panel-body horarioCollapse">16:00 - 20:00 // Workshops<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="sabadoworkshops16" class="panel-collapse collapse">
+                        <div id="quartaworkshops16" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -253,9 +253,9 @@
                             </h4>
                         </div>
 
-                        <div href="#sabadojantar20"  class="panel-body">20:00 - 21:00 // Jantar
+                        <div href="#quartajantar20"  class="panel-body">20:00 - 21:00 // Jantar
                         </div>
-                        <div id="sabadojantar20" class="panel-collapse collapse">
+                        <div id="quartajantar20" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -266,9 +266,9 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#sabadoactividadecultural21"  class="panel-body horarioCollapse">21:00 - 23:00 // Actividade Cultural<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quartaactividadecultural21"  class="panel-body horarioCollapse">21:00 - 23:00 // Actividade Cultural<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="sabadoactividadecultural21" class="panel-collapse collapse">
+                        <div id="quartaactividadecultural21" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
                     </div>
@@ -276,8 +276,8 @@
 
 
 
-                    <!-- Domingo -->
-                    <div role="tabpanel" class="tab-pane" id="domingo">
+                    <!-- quinta -->
+                    <div role="tabpanel" class="tab-pane" id="quinta">
 
                         <div class="panel-heading" id="horarioTitulo">
                             <h4 class="panel-title">
@@ -285,9 +285,9 @@
 
                             </h4>
                         </div>
-                        <div href="#domingopequenoalmoco8"  class="panel-body">8:00 - 9:00 // Pequeno-Almoço
+                        <div href="#quintapequenoalmoco8"  class="panel-body">8:00 - 9:00 // Pequeno-Almoço
                         </div>
-                        <div id="domingopequenoalmoco8" class="panel-collapse collapse">
+                        <div id="quintapequenoalmoco8" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -297,9 +297,9 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#domingoworkshops9"  class="panel-body horarioCollapse">9:00 - 11:00 // Workshops <span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quintaworkshops9"  class="panel-body horarioCollapse">9:00 - 11:00 // Workshops <span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="domingoworkshops9" class="panel-collapse collapse">
+                        <div id="quintaworkshops9" class="panel-collapse collapse">
                             <div class="panel-body">
                                 <ul>
                                     <li>Introdução às linguagens Web com Ricardo Pereira</li>
@@ -356,9 +356,9 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#domingopalestras11"  class="panel-body horarioCollapse">11:00 - 12:00 // Palestras <span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quintapalestras11"  class="panel-body horarioCollapse">11:00 - 12:00 // Palestras <span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="domingopalestras11" class="panel-collapse collapse">
+                        <div id="quintapalestras11" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -369,9 +369,9 @@
 
                             </h4>
                         </div>
-                        <div href="#domingoalmoco12"  class="panel-body">12:00 - 14:00 // Almoço
+                        <div href="#quintaalmoco12"  class="panel-body">12:00 - 14:00 // Almoço
                         </div>
-                        <div id="domingoalmoco12" class="panel-collapse collapse">
+                        <div id="quintaalmoco12" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -381,9 +381,9 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#domingopalestra14"  class="panel-body horarioCollapse">14:00 - 16:00 // Palestra<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quintapalestra14"  class="panel-body horarioCollapse">14:00 - 16:00 // Palestra<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="domingopalestra14" class="panel-collapse collapse">
+                        <div id="quintapalestra14" class="panel-collapse collapse">
                             <div class="panel-body">
                                 <ul>
                                     <li>Indústria 4.0 - Aplicação SEW-EURODRIVE MOVIPod – Domínio absoluto do movimento 3D com Bruno Alves</li>
@@ -403,9 +403,9 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#domingoworkshops16"  class="panel-body horarioCollapse">16:00 - 20:00 // Actividade Cultural<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quintaworkshops16"  class="panel-body horarioCollapse">16:00 - 20:00 // Actividade Cultural<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="domingoworkshops16" class="panel-collapse collapse">
+                        <div id="quintaworkshops16" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -418,9 +418,9 @@
 
                             </h4>
                         </div>
-                        <div href="#domingojantar20"  class="panel-body">20:00 - 21:00 // Jantar
+                        <div href="#quintajantar20"  class="panel-body">20:00 - 21:00 // Jantar
                         </div>
-                        <div id="domingojantar20" class="panel-collapse collapse">
+                        <div id="quintajantar20" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -430,26 +430,26 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#domingoactividadecultural21"  class="panel-body horarioCollapse">21:00 - 23:00 // Actividade Cultural<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#quintaactividadecultural21"  class="panel-body horarioCollapse">21:00 - 23:00 // Actividade Cultural<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="domingoactividadecultural21" class="panel-collapse collapse">
+                        <div id="quintaactividadecultural21" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
                     </div>
 
 
-                    <!-- Segunda -->
-                    <div role="tabpanel" class="tab-pane" id="segunda">
+                    <!-- sexta -->
+                    <div role="tabpanel" class="tab-pane" id="sexta">
                         <div class="panel-heading" id="horarioTitulo">
                             <h4 class="panel-title">
                             8:00
 
                             </h4>
                         </div>
-                        <div href="#segundapequenoalmoco8"  class="panel-body">8:00 - 9:00 // Pequeno-Almoço
+                        <div href="#sextapequenoalmoco8"  class="panel-body">8:00 - 9:00 // Pequeno-Almoço
                         </div>
-                        <div id="segundapequenoalmoco8" class="panel-collapse collapse">
+                        <div id="sextapequenoalmoco8" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
 
@@ -460,14 +460,14 @@
 
                             </h4>
                         </div>
-                        <div  data-toggle="collapse" href="#segundarecrutamento9"  class="panel-body horarioCollapse">9:00 - 12:30 // Sessão de Recrutamento<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#sextarecrutamento9"  class="panel-body horarioCollapse">9:00 - 12:30 // Sessão de Recrutamento<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="segundarecrutamento9" class="panel-collapse collapse">
+                        <div id="sextarecrutamento9" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
-                        <div  data-toggle="collapse" href="#segundaencerramento9"  class="panel-body horarioCollapse">9:00 - 12:30 // Sessão de Encerramento<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
+                        <div  data-toggle="collapse" href="#sextaencerramento9"  class="panel-body horarioCollapse">9:00 - 12:30 // Sessão de Encerramento<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
-                        <div id="segundaencerramento9" class="panel-collapse collapse">
+                        <div id="sextaencerramento9" class="panel-collapse collapse">
                             <div class="panel-body">Mais informações em breve.</div>
                         </div>
                     </div>

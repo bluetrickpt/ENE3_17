@@ -39,8 +39,8 @@
 
               <p class="text-justify">
                 O evento conta já com sete edições, fundado em Coimbra, está
-                de volta à cidade-mãe pela terceira vez. A realização do ENE3_8
-                está prevista para 1 a 4 de Setembro de 2017.
+                de volta à cidade-mãe pela terceira vez. Este ano o  ENE3
+                decorrerá durante os dias 5 a 8ua de Setembro de 2017.
               </p>
 
               <p class="text-justify">
