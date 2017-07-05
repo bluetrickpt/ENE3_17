@@ -56,10 +56,10 @@
                   <td>Este pacote inclui todas as vantagens do pacote Normal sendo adquirido, em simultâneo, por 5 pessoas.</td>
               </tr>
               <tr>
-                  <td><b>Preço:</b> 25€</td>
+                  <td><b>Preço:</b> 35€</td>
+                  <td><b>Preço:</b> 40€</td>
+                  <td><b>Preço:</b> 60€</td>
                   <td><b>Preço:</b> 30€</td>
-                  <td><b>Preço:</b> 45€</td>
-                  <td><b>Preço:</b> 20€</td>
               </tr>
           </table>
 

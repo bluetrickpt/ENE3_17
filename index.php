@@ -36,28 +36,39 @@
       <h3 style=""> Liberta o teu calendário para os dias <b>5, 6, 7 e 8 de Setembro</b> para o ENE3 e vem à belíssima cidade
         de Coimbra para a oitava edição do ENE3! </h3>
 
-      <h3>Já conheces o nosso <b>Roadshow</b>?</h3>
-      <p>
-        Entre 23 e 26 de Maio iremos visitar universidades e institutos por todo o país, para divulgar o ENE3 2017.
-        Consulta abaixo a imagem para datas e para saber se passamos na tua instituição. Se tiveres alguma dúvida não
-        hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).
-      </p>
+        <p style="text-align: center; margin: 35px">
+            <iframe src="https://drive.google.com/file/d/0B3fnEzUqIC77bTJhMTBjSlJmRDg/preview" width="640" height="480"></iframe>
+        </p>
+
+        <p>Se ainda não te inscreveste, passa já na nossa página de <a href="register.php">inscrições</a> e seleciona o plano
+        que melhor se ajusta às tuas preferências.
+        </p>
 
 
 
-      <p style="text-align:center;">
-        <img src="images/roadshow.png" alt="roadshow" width="50%" align="center" style="margin:20px"/>
-      </p>
-      <div class="clearfix"></div>
-
+        <!--<h3>Já conheces o nosso <b>Roadshow</b>?</h3>
         <p>
-            Estaremos em:</p>
-        <p><b>Dia 23 de Maio:</b> Faculdade de Engenharia do Porto // Universidade de Aveiro</p>
-        <p><b>Dia 24 de Maio:</b> Universidade de Coimbra // Instituto Politécnico de Coimbra</p>
-        <p><b>Dia 25 de Maio:</b> Instituto Técnico de Lisboa // Instituto Politécnico de Leiria</p>
-        <p><b>Dia 26 de Maio:</b> Universidade da Beira Interior // Universidade do Minho</p>
+          Entre 23 e 26 de Maio iremos visitar universidades e institutos por todo o país, para divulgar o ENE3 2017.
+          Consulta abaixo a imagem para datas e para saber se passamos na tua instituição. Se tiveres alguma dúvida não
+          hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).
+        </p>
 
-      <p>Vem falar connosco! Temos surpresas à tua espera.</p>
+
+
+
+        <p style="text-align:center;">
+          <img src="images/roadshow.png" alt="roadshow" width="50%" align="center" style="margin:20px"/>
+        </p>
+        <div class="clearfix"></div>
+
+          <p>
+              Estaremos em:</p>
+          <p><b>Dia 23 de Maio:</b> Faculdade de Engenharia do Porto // Universidade de Aveiro</p>
+          <p><b>Dia 24 de Maio:</b> Universidade de Coimbra // Instituto Politécnico de Coimbra</p>
+          <p><b>Dia 25 de Maio:</b> Instituto Técnico de Lisboa // Instituto Politécnico de Leiria</p>
+          <p><b>Dia 26 de Maio:</b> Universidade da Beira Interior // Universidade do Minho</p>
+
+        <p>Vem falar connosco! Temos surpresas à tua espera.</p>-->
 
       <h3>Newsletter</h3>
 

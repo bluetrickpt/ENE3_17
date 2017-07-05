@@ -52,6 +52,30 @@
                     </div>
                 </a>
             </div>
+
+            <div class="col-md-4">
+                <a href="http://www.edpdistribuicao.pt/pt/Pages/homepage.aspx" target="_blank">
+                    <div class="thumbnail">
+                        <img class="big" src="images/sponsors/big/edp.png" alt="EDP">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">EDP - Energias de Portugal</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-4">
+                <a href="http://www.ordemengenheiros.pt" target="_blank">
+                    <div class="thumbnail">
+                        <img class="big" src="images/sponsors/big/ordem.png" alt="ODE">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">Ordem Dos Engenheiros</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
         </div>
     
     
