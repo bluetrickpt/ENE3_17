@@ -37,7 +37,7 @@
         de Coimbra para a oitava edição do ENE3! </h3>
 
         <p style="text-align: center; margin: 35px">
-            <iframe src="https://drive.google.com/file/d/0B3fnEzUqIC77bTJhMTBjSlJmRDg/preview" width="640" height="480"></iframe>
+            <iframe src="https://drive.google.com/file/d/0BxvRzbnAs-WwMExmUk0wcm9LY3c/preview" width="640" height="480"></iframe>
         </p>
 
         <p>Se ainda não te inscreveste, passa já na nossa página de <a href="register.php">inscrições</a> e seleciona o plano
