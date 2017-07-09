@@ -179,6 +179,16 @@
                                     <li>
                                         Introdução ao KiCAD com Mário Luzeiro
                                     </li>
+                                    <ul>
+                                        <li>Mário Luzeiro é licenciado em Eng. Electrónica e Telecomunicações pela Universidade de Aveiro.
+                                            Desde há 10 anos que tem vindo a trabalhar em diversas áreas da electrónica e software envolvendo sistemas embutidos.
+                                            Tem desenvolvido como hobby projectos na area áudio e da IoT.
+                                            Tem uma participação activa em foruns online e contribui para projectos open-source.
+                                        </li>
+                                    </ul>
+                                    <li>
+                                        Desenho CAD com Prof. Fatima Paulino
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -207,21 +217,28 @@
                         <div id="quartapalestra14" class="panel-collapse collapse">
                             <div class="panel-body">
                                 <ul>
-                                    <li>Python - Data Science com Ricardo Pereira</li>
+                                    <li>Ordem dos Engenheiros com Eng. Pedro Carreira</li>
                                     <ul>
-                                        <li>Ricardo Pereira é professor no Instituto Superior de Engenharia de Coimbra, onde leciona
+                                        <li>Pedro Carreira possui uma licenciatura em Engenharia Eletrotécnica - Ramo de
 
-                                            disciplinas de programação avançada e desenvolvimento móvel, e é investigador no
+                                            Telecomunicações, da Faculdade de Ciências e Tecnologia da Universidade de
 
-                                            Departamento de Física da Universidade de Coimbra, onde desenvolve novas abordagens
+                                            Coimbra. Atualmente é subdiretor no departamento de tecnologia da  EDP
 
-                                            de software para a análise de dados de instrumentação, no contexto do projeto XENON
+                                            Distribuição, onde também foi responsável pelo departamento de inovação e
 
-                                            Dark Matter Direct Search Experiment.</li>
+                                            desenvolvimento e parte da equipa responsável pelo planeamento da rede de
 
-                                        <li><b>Nota:</b> editor PyCharm (Python 3).</li>
+                                            telecomunicações de suporte à rede de distribuição de energia elétrica. Foi, ainda,
+
+                                            formador na disciplina de Informática e Novas Tecnologias aplicadas às Autarquias,
+
+                                            CEFA, e do Curso de Mestrado de Construção lecionando a cadeira de instalações
+
+                                            elétricas. Atualmente exerce na Ordem dos Engenheiros a funções de coordenação do
+
+                                            colégio de engenharia eletrotécnica da Região Centro.</li>
                                     </ul>
-                                    <li>Introdução ao Desenho de PCBs com Mário Luzeiro</li>
                                 </ul>
                             </div>
                         </div>
@@ -241,7 +258,34 @@
                         <div  data-toggle="collapse" href="#quartaworkshops16"  class="panel-body horarioCollapse">16:00 - 20:00 // Workshops<span class="glyphicon glyphicon-chevron-down horarioSeta"/>
                         </div>
                         <div id="quartaworkshops16" class="panel-collapse collapse">
-                            <div class="panel-body">Mais informações em breve.</div>
+                            <div class="panel-body">
+                                <ul>
+                                    <li>Python - Data Science com Ricardo Pereira</li>
+                                    <ul>
+                                        <li>Ricardo Pereira é professor no Instituto Superior de Engenharia de Coimbra, onde leciona
+
+                                            disciplinas de programação avançada e desenvolvimento móvel, e é investigador no
+
+                                            Departamento de Física da Universidade de Coimbra, onde desenvolve novas abordagens
+
+                                            de software para a análise de dados de instrumentação, no contexto do projeto XENON
+
+                                            Dark Matter Direct Search Experiment.</li>
+
+                                        <li><b>Nota:</b> editor PyCharm (Python 3).</li>
+                                    </ul>
+                                    <li>Introdução ao Desenho de PCBs com Mário Luzeiro</li>
+                                    <ul>
+                                        <li>Mário Luzeiro é licenciado em Eng. Electrónica e Telecomunicações pela Universidade de Aveiro.
+                                            Desde há 10 anos que tem vindo a trabalhar em diversas áreas da electrónica e software envolvendo sistemas embutidos.
+                                            Tem desenvolvido como hobby projectos na area áudio e da IoT.
+                                            Tem uma participação activa em foruns online e contribui para projectos open-source.
+                                        </li>
+                                    </ul>
+                                    <li>Workshop EDP Distribuição: Política Energética e Climática para 2050 com (por anunciar)</li>
+                                </ul>
+
+                            </div>
                         </div>
 
 
@@ -386,11 +430,33 @@
                         <div id="quintapalestra14" class="panel-collapse collapse">
                             <div class="panel-body">
                                 <ul>
-                                    <li>Indústria 4.0 - Aplicação SEW-EURODRIVE MOVIPod – Domínio absoluto do movimento 3D com Bruno Alves</li>
+                                    <li>[15:00] Indústria 4.0 - Aplicação SEW-EURODRIVE MOVIPod – Domínio absoluto do movimento 3D com Bruno Alves</li>
                                     <ul>
                                         <li>Eng. Bruno Alves, licenciado em Eng. Electrotécnica, colabora na SEW-EURODRIVE
                                             Portugal desde 2001, e desempenha, actualmente, as funções de Engenheiro de Aplicações.
                                         </li>
+                                    </ul>
+                                    <li>[15:30] Palestra EDP Distribuição 'Indústria 4.0 na perspetiva de uma utility' com Eng. Pedro Carreira</li>
+                                    <ul>
+                                        <li>Pedro Carreira possui uma licenciatura em Engenharia Eletrotécnica - Ramo de
+
+                                            Telecomunicações, da Faculdade de Ciências e Tecnologia da Universidade de
+
+                                            Coimbra. Atualmente é subdiretor no departamento de tecnologia da  EDP
+
+                                            Distribuição, onde também foi responsável pelo departamento de inovação e
+
+                                            desenvolvimento e parte da equipa responsável pelo planeamento da rede de
+
+                                            telecomunicações de suporte à rede de distribuição de energia elétrica. Foi, ainda,
+
+                                            formador na disciplina de Informática e Novas Tecnologias aplicadas às Autarquias,
+
+                                            CEFA, e do Curso de Mestrado de Construção lecionando a cadeira de instalações
+
+                                            elétricas. Atualmente exerce na Ordem dos Engenheiros a funções de coordenação do
+
+                                            colégio de engenharia eletrotécnica da Região Centro.</li>
                                     </ul>
                                 </ul>
                             </div>
