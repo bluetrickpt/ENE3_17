@@ -125,6 +125,31 @@
                     </div>
                 </a>
             </div>
+
+            <div class="col-md-2">
+                <a href="http://www.alticelabs.com/pt/" target="_blank">
+                    <div class="thumbnail" style="min-height:205px">
+                        <img class="small" src="images/sponsors/small/alticelabs.png" alt="Altice Labs">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">Altice Labs</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-2">
+                <a href="http://www.inova-ria.pt/" target="_blank">
+                    <div class="thumbnail" style="min-height:205px">
+                        <img class="small" src="images/sponsors/small/inovaria.png" alt="Inova Ria">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">Inova Ria</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
         </div>
     
     
