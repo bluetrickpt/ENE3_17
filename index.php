@@ -169,7 +169,7 @@
             <hr>
 
             <p style="text-align:center;">
-                <a href="https://www.facebook.com/ene3.portugal">Ver todas as notícias...</a>
+                <a href="https://www.facebook.com/ene3.portugal">Ver todas as novidades.</a>
             </p>
         </div>
 
