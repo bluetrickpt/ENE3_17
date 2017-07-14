@@ -12,3 +12,21 @@
 .titles {
 	background-color: white;
 }
+
+.news_image {
+  width: 100%;
+}
+
+.news_section {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.news {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+p {
+  text-align: justify;
+}

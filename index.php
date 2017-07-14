@@ -36,9 +36,20 @@
       <h3 style=""> Liberta o teu calendário para os dias <b>5, 6, 7 e 8 de Setembro</b> para o ENE3 e vem à belíssima cidade
         de Coimbra para a oitava edição do ENE3! </h3>
 
-        <p style="text-align: center; margin: 35px">
-            <iframe src="https://drive.google.com/file/d/0BxvRzbnAs-WwMExmUk0wcm9LY3c/preview" width="640" height="480"></iframe>
-        </p>
+
+
+        <div class="row">
+            <div class="thumbnail col-md-offset-4 col-md-5" style="text-align: center;">
+                <a href="register.php">
+                    <img src="images/logo.png">
+                    <h1>Inscreve-te já! //</h1>
+                </a>
+
+
+            </div>
+        </div>
+
+
 
         <p>Se ainda não te inscreveste, passa já na nossa página de <a href="register.php">inscrições</a> e seleciona o plano
         que melhor se ajusta às tuas preferências.
@@ -70,10 +81,104 @@
 
         <p>Vem falar connosco! Temos surpresas à tua espera.</p>-->
 
-      <h3>Newsletter</h3>
+      <h3>Últimas Notícias:</h3>
+        Mantém te actualizado através do nosso <a href="https://www.facebook.com/ene3.portugal">Facebook</a> e do nosso
+        <a href="https://www.instagram.com/ene3.2017/">Instagram</a>.
+
+        <div class="news_section">
+            <div class="row news">
+                <div class="col-md-9">
+                    <b>[6 de Julho]</b>
+                    O ENE3 quer te dar todo o tipo de formação que precisas por isso apresentamos-te uma palestra sobre
+                    'Indústria 4.0 na perspetiva de uma utility' ministrada pelo Eng. Pedro Carreira.
+
+                    <br><br>
+                    <p>
+                        Pedro Carreira possui uma licenciatura em Engenharia Eletrotécnica - Ramo de Telecomunicações, da Faculdade de Ciências e Tecnologia da Universidade de Coimbra. Atualmente é subdiretor no departamento de tecnologia da EDP Distribuição, onde também foi responsável pelo departamento de inovação e desenvolvimento e parte da equipa responsável pelo planeamento da rede de telecomunicações de suporte à rede de distribuição de energia elétrica. Foi, ainda, formador na disciplina de Informática e Novas Tecnologias aplicadas às Autarquias, CEFA, e do Curso de Mestrado de Construção lecionando a cadeira de instalações elétricas. Atualmente exerce na Ordem dos Engenheiros a funções de coordenação do colégio de engenharia eletrotécnica da Região Centro.
+                    </p>
+                </div>
+
+                <div class="col-md-3">
+                    <p style="text-align: right;">
+                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/19894663_1441024855964319_8091679588195639475_n.jpg?oh=2d411dc8b7d438021b7e3502c22d6f8a&oe=59FBA464">
+                    </p>
+                </div>
+            </div>
+
+            <hr>
+
+            <div class="row news">
+                <div class="col-md-3">
+                    <p style="text-align: left;">
+                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/19665259_1440113936055411_8602647857722888441_n.png?oh=e494b4bf631b919a792d73f0d2d97e29&oe=59FF7601">
+                    </p>
+                </div>
+
+                <div class="col-md-9">
+                    <b>[6 de Julho]</b>
+                    Cada dia no ENE3 são só novidades, hoje é confirmada a presença da EDP Distribuição no nosso encontro, não vais querer perder esta hipótese de entrar em contacto com esta empresa.
+
+                    <br><br>
+                    <p>
+                        A EDP Distribuição é a empresa que exerce a atividade de Operador de Rede de Distribuição, no território continental de Portugal, uma atividade regulada pela Entidade Reguladora dos Serviços Energéticos (ERSE), sendo titular da concessão para a exploração da Rede Nacional de Distribuição (RND) de Energia Elétrica em Média Tensão (MT) e Alta Tensão (AT), e das concessões municipais de distribuição de energia elétrica em Baixa Tensão (BT).
+                        “A distribuição de energia elétrica é o nosso centro de atuação, a qual é pautada por elevados padrões de qualidade e eficiência, independência e transparência, consagrados no Código de Conduta da Empresa”.
+                        Ligações à Rede Elétrica, Assistência Técnica à Rede e Clientes, Apoio na escolha de Soluções Energéticas Eficientes e Leitura de equipamentos de contagem são alguns dos serviços prestados pela EDP Distribuição.                    </p>
+                </div>
+            </div>
+
+            <hr>
+
+            <div class="row news">
+                <div class="col-md-9">
+                    <b>[1 de Julho]</b>
+                    O ENE3 já conta com a presença da Ordem dos Engenheiros da Região Centro no evento, está atento.
+
+                    <br><br>
+                    <p>
+                        A Ordem dos Engenheiros, é a associação profissional representativa de quem exerce a profissão de Engenheiro, estando focada nos problemas e nas especificidades da profissão, onde a qualificação, a qualidade, e os princípios éticos, deontológicos e comportamentais, assumem relevante importância, garantindo que a regulação da profissão seja sempre assegurada com altos padrões de exigência e isenção.
+                    </p>
+                </div>
+
+                <div class="col-md-3">
+                    <p style="text-align: right;">
+                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/19702155_1440111352722336_4527779584349271596_n.png?oh=993e790c63c6e8f57258235de06a3c4c&oe=59CB7013">
+                    </p>
+                </div>
+            </div>
+
+            <hr>
+
+            <div class="row news">
+                <div class="col-md-3">
+                    <p style="text-align: left;">
+                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/19598666_1435662103167261_281383339515931140_n.png?oh=ea7624d3d7c43e993d0f03c592cc5349&oe=5A02E116">
+                    </p>
+                </div>
+
+                <div class="col-md-9">
+                    <b>[1 de Julho]</b>
+                    Mais um workshop confirmado! Será sobre Python - Data Science e será ministrado pelo Prof. Ricardo Pereira.
+
+                    <br><br>
+                    <p>
+                        Ricardo Pereira é professor no Instituto Superior de Engenharia de Coimbra, onde leciona disciplinas de programação avançada e desenvolvimento móvel, e é investigador no Departamento de Física da Universidade de Coimbra, onde desenvolve novas abordagens de software para a análise de dados de instrumentação, no contexto do projeto XENON Dark Matter Direct Search Experiment. Nos últimos anos colaborou com empresas da área de telemetria e gestão remota nos setores petrolífero e energético, sendo de destacar a Intelligent Sensing Anywhere e a Virtual Power Solutions. Tem como principais áreas de interesse a análise de dados, a computação na cloud, a integração de sistemas e a arquitetura de software. É atualmente aluno de Mestrado do Departamento de Engenharia Informática da Universidade de Coimbra.
+                    </p>
+                </div>
+            </div>
+
+            <hr>
+
+            <p style="text-align:center;">
+                <a href="https://www.facebook.com/ene3.portugal">Ver todas as notícias...</a>
+            </p>
+        </div>
 
 
-      <!-- Newsletter Form -->
+
+
+
+
+      <!-- Newsletter Form
       <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/ene3_2017"
             method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/ene3_2017', 'popupwindow',
             'scrollbars=yes,width=800,height=600');return true">
@@ -88,7 +193,7 @@
         <p>
           <a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a>
         </p>
-      </form>
+      </form>-->
 
       <!--<div id="my-slider" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
@@ -113,6 +218,7 @@
       </div>-->
     </div>
   </div>
+
 
   <?php include("cp/cp.php"); ?>
   <div id="footer"></div>

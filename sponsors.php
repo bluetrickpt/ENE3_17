@@ -150,6 +150,18 @@
                 </a>
             </div>
 
+            <div class="col-md-2">
+                <a href="http://www.plux.info" target="_blank">
+                    <div class="thumbnail" style="min-height:205px">
+                        <img class="small" src="images/sponsors/small/plux.png" alt="plux">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">plux</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
         </div>
     
     
