@@ -30,3 +30,30 @@
 	color: #139871 !important;
 	background-color: #CCFF99 !important;
 }*/
+
+
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.centerTable { margin: 0px auto; }
+
+th, td {
+	padding: 15px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.activityDescription {
+	text-align: left;
+}
+
+.header {
+	font-weight: bold;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}

@@ -59,7 +59,7 @@
                         <img class="big" src="images/sponsors/big/edp.png" alt="EDP">
                         <div class="clearfix"></div>
                         <div class="caption">
-                            <p style="text-align:center;">EDP - Energias de Portugal</p>
+                            <p style="text-align:center;">EDP Distribuição</p>
                         </div>
                     </div>
                 </a>
