@@ -39,13 +39,11 @@
 
 
         <div class="row">
-            <div class="thumbnail col-md-offset-4 col-md-5" style="text-align: center;">
+            <div class="thumbnail col-md-offset-2 col-md-8" style="text-align: center;">
                 <a href="register.php">
-                    <img src="images/logo.png">
+                    <img src="images/signupnow.png">
                     <h1>Inscreve-te já! //</h1>
                 </a>
-
-
             </div>
         </div>
 
