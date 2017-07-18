@@ -37,7 +37,7 @@
             mais parcerias iremos divulgar nas nossas redes sociais e atualizar esta página.</p>
     
     
-        <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Platinum/Gold</h2>
+        <!-- <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Platinum/Gold</h2> -->
     
         <!--Big-->
         <div class="row">
@@ -82,7 +82,7 @@
         <!--Medium-->
     
     
-        <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Silver</h2>
+<!--        <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Silver</h2>-->
     
         <div class="row">
             <div class="col-md-3">
@@ -100,7 +100,7 @@
     
     
         <!--Small-->
-        <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Bronze</h2>
+<!--        <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Bronze</h2>-->
     
         <div class="row" style=>
             <div class="col-md-2">
