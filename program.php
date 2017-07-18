@@ -28,9 +28,12 @@
 	<div class="container primary">
 		<h1 class="text-primary">Programa</h1>
 
+        <p><b>Nota:</b> Esta página encontra-se em constante actualização. Novas actividades serão adicionadas e mais
+        detalhes vão sendo publicitados.
+        <p>Mantém-te atento às nossas redes sociais (<a href="https://www.facebook.com/ene3.portugal">Facebook</a> e
+            <a href="https://www.instagram.com/ene3.2017/">Instagram</a>) para apanhares as últimas novidades.
 
         <div id="program_table"></div>
-
     </div>
 
 
