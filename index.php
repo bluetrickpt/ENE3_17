@@ -37,17 +37,17 @@
         de Coimbra para a oitava edição do ENE3! </h3>
 
 
+    </div>
 
-        <div class="row">
-            <div class="thumbnail col-md-offset-2 col-md-8" style="text-align: center;">
-                <a href="register.php">
-                    <img src="images/signupnow.png">
-                    <h1>Inscreve-te já! //</h1>
-                </a>
-            </div>
+    <div class="row">
+        <div class="col-md-12" style="text-align: center;">
+            <a href="register.php">
+                <img src="images/signupnow.png" width="100%">
+            </a>
         </div>
+    </div>
 
-
+      <div class="container primary">
 
         <p>Se ainda não te inscreveste, passa já na nossa página de <a href="register.php">inscrições</a> e seleciona o plano
         que melhor se ajusta às tuas preferências.
