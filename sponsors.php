@@ -40,7 +40,7 @@
         <!-- <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Platinum/Gold</h2> -->
     
         <!--Big-->
-        <div class="row">
+        <div class="row sponsor-group">
             <div class="col-md-4">
                 <a href="https://www.weg.net" target="_blank">
                     <div class="thumbnail">
@@ -76,6 +76,18 @@
                     </div>
                 </a>
             </div>
+
+            <div class="col-md-4">
+                <a href="http://celfinet.com/" target="_blank">
+                    <div class="thumbnail">
+                        <img class="big" src="images/sponsors/big/celfinet.png" alt="Celfinet">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">Celfinet</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
         </div>
     
     
@@ -84,7 +96,7 @@
     
 <!--        <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Silver</h2>-->
     
-        <div class="row">
+        <div class="row sponsor-group">
             <div class="col-md-3">
                 <a href="http://www.criticalsoftware.com/pt/homepage" target="_blank">
                     <div class="thumbnail">
@@ -96,13 +108,49 @@
                     </div>
                 </a>
             </div>
+
+            <div class="col-md-3">
+                <a href="https://www.sew-eurodrive.pt/inicio.html" target="_blank">
+                    <div class="thumbnail">
+                        <img class="medium" src="images/sponsors/medium/sew.png" alt="SEW EURODRIVE Portugal">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">SEW EURODRIVE Portugal</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-3">
+                <a href="http://efapel.pt/" target="_blank">
+                    <div class="thumbnail">
+                        <img class="medium" src="images/sponsors/medium/efapel.png" alt="EFAPEL">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">EFAPEL</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-3">
+                <a href="http://new.abb.com/pt" target="_blank">
+                    <div class="thumbnail">
+                        <img class="medium" src="images/sponsors/medium/abb.png" alt="ABB">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">ABB Portugal</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
         </div>
     
     
         <!--Small-->
 <!--        <h2 style="border-bottom: solid 1px #e1e1e1; margin-bottom: 15px; margin-top:15px; padding-bottom:10px;">Bronze</h2>-->
     
-        <div class="row" style=>
+        <div class="row sponsor-group" style=>
             <div class="col-md-2">
                 <a href="http://www.bitalino.com" target="_blank">
                     <div class="thumbnail" style="min-height:205px">
