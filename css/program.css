@@ -62,3 +62,8 @@ th, td {
 .clickable-cell {
 	background-color: #9abab4;
 }
+
+/*.clickable-cell:hover {
+	background-color: #c1e9e1;
+}*/
+
