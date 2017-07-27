@@ -41,25 +41,27 @@
 
           <table class="col-md-12" style="margin-bottom: 15px">
               <tr>
-                  <th class="col-md-3"><h3>Sem estadia</h3></th>
-                  <th class="col-md-3"><h3>Normal</h3></th>
-                  <th class="col-md-3"><h3>Alojamento</h3></th>
                   <th class="col-md-3"><h3>Grupos</h3></th>
+                  <th class="col-md-3"><h3>Sem Estadia</h3></th>
+                  <th class="col-md-3"><h3>Com Estadia</h3></th>
+                  <th class="col-md-3"><h3>Pousada</h3></th>
+
               </tr>
               <tr>
-                  <td>Este pacote inclui todas as despesas do evento, nomeadamente alimentação, exceto as despesas relacionadas
-                      com dormida. Ideal para quem é de Coimbra ou para quem tem alojamento nesta cidade.</td>
+                  <td>Este pacote inclui todas as vantagens do pacote "Com Estadia" sendo adquirido, em simultâneo, por 5 pessoas.</td>
+                  <td>Este pacote inclui todas as despesas do evento, exceto pequeno almoço e dormida.
+                      Ideal para quem é de Coimbra ou para quem tem alojamento nesta cidade.</td>
                   <td>Este pacote inclui todas as despesas do evento e dormida em colchão em pavilhão.
                       Ideal para quem prefere um ambiente de maior convívio.</td>
-                  <td>Este pacote inclui todas as despesas do evento e dormida em cama que poderá ser em pousada ou residência.
+                  <td>Este pacote inclui todas as despesas do evento e dormida em cama numa pousada.
                       Ideal para quem prefere um ambiente mais calmo e confortável.</td>
-                  <td>Este pacote inclui todas as vantagens do pacote Normal sendo adquirido, em simultâneo, por 5 pessoas.</td>
+
               </tr>
               <tr>
+                  <td><b>Preço:</b> 30€</td>
                   <td><b>Preço:</b> 35€</td>
                   <td><b>Preço:</b> 40€</td>
                   <td><b>Preço:</b> 60€</td>
-                  <td><b>Preço:</b> 30€</td>
               </tr>
           </table>
 

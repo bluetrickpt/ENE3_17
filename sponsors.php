@@ -134,16 +134,18 @@
             </div>
 
             <div class="col-md-3">
-                <a href="http://new.abb.com/pt" target="_blank">
+                <a href="http://www.controlar.pt/" target="_blank">
                     <div class="thumbnail">
-                        <img class="medium" src="images/sponsors/medium/abb.png" alt="ABB">
+                        <img class="medium" src="images/sponsors/medium/controlar.png" alt="CONTROLAR">
                         <div class="clearfix"></div>
                         <div class="caption">
-                            <p style="text-align:center;">ABB Portugal</p>
+                            <p style="text-align:center;">CONTROLAR</p>
                         </div>
                     </div>
                 </a>
             </div>
+
+
         </div>
     
     
@@ -205,6 +207,18 @@
                         <div class="clearfix"></div>
                         <div class="caption">
                             <p style="text-align:center;">plux</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-2">
+                <a href="http://new.abb.com/pt" target="_blank">
+                    <div class="thumbnail" style="min-height:205px">
+                        <img class="small" src="images/sponsors/small/abb.png" alt="ABB">
+                        <div class="clearfix"></div>
+                        <div class="caption">
+                            <p style="text-align:center;">ABB Portugal</p>
                         </div>
                     </div>
                 </a>
