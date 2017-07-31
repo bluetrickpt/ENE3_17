@@ -86,19 +86,16 @@
         <div class="news_section">
             <div class="row news">
                 <div class="col-md-9">
-                    <b>[6 de Julho]</b>
-                    O ENE3 quer te dar todo o tipo de formação que precisas por isso apresentamos-te uma palestra sobre
-                    'Indústria 4.0 na perspetiva de uma utility' ministrada pelo Eng. Pedro Carreira.
-
+                    <b>[30 de Julho]</b><br>
+                    Miguel Nascimento é o grande vencedor do nosso concurso. Ele e mais 4 amigos já têm lugar garantido no ENE3 2017. E tu o que esperas?
+                    Inscrições e informações em <a href="ene3.deec.uc.pt/register/">ene3.deec.uc.pt/register/</a>
                     <br><br>
-                    <p>
-                        Pedro Carreira possui uma licenciatura em Engenharia Eletrotécnica - Ramo de Telecomunicações, da Faculdade de Ciências e Tecnologia da Universidade de Coimbra. Atualmente é subdiretor no departamento de tecnologia da EDP Distribuição, onde também foi responsável pelo departamento de inovação e desenvolvimento e parte da equipa responsável pelo planeamento da rede de telecomunicações de suporte à rede de distribuição de energia elétrica. Foi, ainda, formador na disciplina de Informática e Novas Tecnologias aplicadas às Autarquias, CEFA, e do Curso de Mestrado de Construção lecionando a cadeira de instalações elétricas. Atualmente exerce na Ordem dos Engenheiros a funções de coordenação do colégio de engenharia eletrotécnica da Região Centro.
-                    </p>
+
                 </div>
 
                 <div class="col-md-3">
                     <p style="text-align: right;">
-                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/19894663_1441024855964319_8091679588195639475_n.jpg?oh=2d411dc8b7d438021b7e3502c22d6f8a&oe=59FBA464">
+                        <img class="news_image" src="https://scontent.fopo1-1.fna.fbcdn.net/v/t1.0-9/20476451_1465069710226500_5669407331792807863_n.jpg?oh=8e249649e70f855f31fd0d5fef516aa0&oe=5A31352F">
                     </p>
                 </div>
             </div>
@@ -108,19 +105,35 @@
             <div class="row news">
                 <div class="col-md-3">
                     <p style="text-align: left;">
-                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/19665259_1440113936055411_8602647857722888441_n.png?oh=e494b4bf631b919a792d73f0d2d97e29&oe=59FF7601">
+                        <img class="news_image" src="https://scontent.fopo1-1.fna.fbcdn.net/v/t1.0-9/20246302_1460330617367076_3276680113696027720_n.jpg?oh=3f69d1e49305975d805797a2ec30df95&oe=59EE969D">
                     </p>
                 </div>
 
                 <div class="col-md-9">
-                    <b>[6 de Julho]</b>
-                    Cada dia no ENE3 são só novidades, hoje é confirmada a presença da EDP Distribuição no nosso encontro, não vais querer perder esta hipótese de entrar em contacto com esta empresa.
+                    <b>[25 de Julho]</b>
+
+                    <br>
+                    As regras são simples:
+                    <ul>
+                        <li>Mete like na página <a href="facebook.com/ene3.portugal/">facebook.com/ene3.portugal/</a></li>
+                        <li>Partilha esta publicação em modo público</li>
+                        <li>Identifica 4 amigos teus na forma de comentário</li>
+                    </ul>
+
+                    <br><br>
+                    <p>O vencedor ganha CINCO entradas grátis com tudo incluído, nomeadamente dormidas e alimentação.</p>
 
                     <br><br>
                     <p>
-                        A EDP Distribuição é a empresa que exerce a atividade de Operador de Rede de Distribuição, no território continental de Portugal, uma atividade regulada pela Entidade Reguladora dos Serviços Energéticos (ERSE), sendo titular da concessão para a exploração da Rede Nacional de Distribuição (RND) de Energia Elétrica em Média Tensão (MT) e Alta Tensão (AT), e das concessões municipais de distribuição de energia elétrica em Baixa Tensão (BT).
-                        “A distribuição de energia elétrica é o nosso centro de atuação, a qual é pautada por elevados padrões de qualidade e eficiência, independência e transparência, consagrados no Código de Conduta da Empresa”.
-                        Ligações à Rede Elétrica, Assistência Técnica à Rede e Clientes, Apoio na escolha de Soluções Energéticas Eficientes e Leitura de equipamentos de contagem são alguns dos serviços prestados pela EDP Distribuição.                    </p>
+                        Caso já te tenhas inscrito, a tua inscrição será paga!
+                        O concurso termina às 20h do dia 30 de Julho de 2017.
+                        O vencedor será anunciado às 21h do dia 30 de Julho de 2017.
+                    </p>
+
+                    <br><br>
+                    <p>Regulamento em <a href="https://goo.gl/YrFbEF">https://goo.gl/YrFbEF</a></p>
+
+
                 </div>
             </div>
 
@@ -128,41 +141,28 @@
 
             <div class="row news">
                 <div class="col-md-9">
-                    <b>[1 de Julho]</b>
-                    O ENE3 já conta com a presença da Ordem dos Engenheiros da Região Centro no evento, está atento.
+                    <b>[29 de Julho]</b>
+                    No ENE3 vais ter a oportunidade de aprender sobre domótica e automação direcionada a habitações!
+                    <br><br>
+                    Este workshop vai ser lecionado por Filipe Pinto e Isabel Borges.
 
                     <br><br>
                     <p>
-                        A Ordem dos Engenheiros, é a associação profissional representativa de quem exerce a profissão de Engenheiro, estando focada nos problemas e nas especificidades da profissão, onde a qualificação, a qualidade, e os princípios éticos, deontológicos e comportamentais, assumem relevante importância, garantindo que a regulação da profissão seja sempre assegurada com altos padrões de exigência e isenção.
+                        Isabel Borges has an engineering and MSc degree from Aveiro University and has been working on applied research on several national and international R&D programs since 1991. She has been responsible for the technology and services training and certification division, managing all training design, development, production and promotion of courses either in- or out-of-company. She has an active participation in several European programs and is currently working on RDI on IoT. She is an external evaluator of projects for the Innovation Agency, a reviewer of IEEE Communications Magazine and she is also author or co-author of several publications and books.
+                    </p>
+
+                    <p>
+                        Filipe Cabral Pinto holds a PhD in telecommunications from Queen Mary University of London and an engineer degree from University of Coimbra. He is a highly accomplished Telecommunications Professional with 5+ years of experience in IoT solutions. He has a comprehensive knowledge of telecommunications system at network, control, and service layers. He is an Innovative strategist with a track record of success in identifying opportunities for International RDI projects. He is skilled as a regular speaker in several conferences around the domain. He is author of more than 35 technical publications and inventor of a patent on the radio area.
                     </p>
                 </div>
 
                 <div class="col-md-3">
                     <p style="text-align: right;">
-                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/19702155_1440111352722336_4527779584349271596_n.png?oh=993e790c63c6e8f57258235de06a3c4c&oe=59CB7013">
+                        <img class="news_image" src="https://scontent.fopo1-1.fna.fbcdn.net/v/t1.0-0/p480x480/20429828_1464168996983238_3179910594676220184_n.jpg?oh=28463f565ed7a79020df5e444b8d1575&oe=5A36D8D1">
                     </p>
                 </div>
             </div>
 
-            <hr>
-
-            <div class="row news">
-                <div class="col-md-3">
-                    <p style="text-align: left;">
-                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-9/19598666_1435662103167261_281383339515931140_n.png?oh=ea7624d3d7c43e993d0f03c592cc5349&oe=5A02E116">
-                    </p>
-                </div>
-
-                <div class="col-md-9">
-                    <b>[1 de Julho]</b>
-                    Mais um workshop confirmado! Será sobre Python - Data Science e será ministrado pelo Prof. Ricardo Pereira.
-
-                    <br><br>
-                    <p>
-                        Ricardo Pereira é professor no Instituto Superior de Engenharia de Coimbra, onde leciona disciplinas de programação avançada e desenvolvimento móvel, e é investigador no Departamento de Física da Universidade de Coimbra, onde desenvolve novas abordagens de software para a análise de dados de instrumentação, no contexto do projeto XENON Dark Matter Direct Search Experiment. Nos últimos anos colaborou com empresas da área de telemetria e gestão remota nos setores petrolífero e energético, sendo de destacar a Intelligent Sensing Anywhere e a Virtual Power Solutions. Tem como principais áreas de interesse a análise de dados, a computação na cloud, a integração de sistemas e a arquitetura de software. É atualmente aluno de Mestrado do Departamento de Engenharia Informática da Universidade de Coimbra.
-                    </p>
-                </div>
-            </div>
 
             <hr>
 
