@@ -1,6 +1,8 @@
 <html>
 
 <head>
+
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
@@ -35,9 +37,9 @@
 <!--        <p>Por anunciar! Fica atento às nossas redes sociais. Se tiveres alguma dúvida não-->
 <!--        hesites em nos contactar (vê <a href="contacts.php">aqui</a> como).</p>-->
 
-        <p>Vê e escolhe qual dos planos que temos disponíveis para ti. Assim que souberes o plano que preferes,
-        preenche abaixo a tua inscrição.
-        </p>
+          <p>Vê e escolhe qual dos planos que temos disponíveis para ti. Assim que souberes o plano que preferes,
+              preenche abaixo a tua inscrição.
+          </p>
 
           <table class="col-md-12" style="margin-bottom: 15px">
               <tr>
@@ -58,13 +60,20 @@
 
               </tr>
               <tr>
-                  <td><b>Preço:</b> 30€</td>
-                  <td><b>Preço:</b> 35€</td>
-                  <td><b>Preço:</b> 40€</td>
-                  <td><b>Preço:</b> 60€</td>
+                  <td><b>Preço:</b> 30€ (Até 6 de Agosto)</td>
+                  <td><b>Preço:</b> 35€ (Até 6 de Agosto)</td>
+                  <td><b>Preço:</b> 40€ (Até 6 de Agosto)</td>
+                  <td><b>Preço:</b> 60€ (Até 6 de Agosto)</td>
+              </tr>
+              <tr>
+                  <td><b>Preço:</b> 40€ (7 a 20 de Agosto)</td>
+                  <td><b>Preço:</b> 45€ (7 a 20 de Agosto)</td>
+                  <td><b>Preço:</b> 50€ (7 a 20 de Agosto)</td>
+                  <td><b>Preço:</b> 70€ (7 a 20 de Agosto)</td>
               </tr>
           </table>
 
+          <p>A partir de 21 de Agosto não serão vendidos mais bilhetes gerais. A inscrição nos workshops decorre nos dias 21 e 22 de Agosto.</p>
           <p>Se estás a pensar vir de comboio, podes consultar <a href="event.php#discounts">aqui</a> os descontos promocionais que arranjámos para ti.</p>
 
         <!--<div id="payment_plans">
