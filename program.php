@@ -29,7 +29,7 @@
 
         <p>
             <b>Nota:</b> Esta página encontra-se em constante actualização. Novas actividades serão adicionadas e mais
-            detalhes vão sendo publicitados.
+            detalhes vão sendo publicitados. <br>Última actualização: 16-Aug-2017.
         </p>
 
         <p>
