@@ -72,6 +72,8 @@
             participantes vão ter então a oportunidade de conhecer o espírito noturno de Coimbra.
         </p>
 
+        <p><b>Não é necessário que tragas o teu computador para nenhuma atividade do ENE3.</b></p>
+
         <h3>Alojamento</h3>
 
         <p class="text-justify">
@@ -142,8 +144,69 @@
             </div>
         </div>
 
-        <h3>Em Coimbra</h3>
+        <h3 id="in-coimbra">Em Coimbra</h3>
 
+        <p>Após chegares a Coimbra, o teu local de check-in depende do pacote que escolheste no ato de inscrição. É totalmente impossível fazer o check-in num local diferente do indicado.</p>
+
+        <p>Recomendamos que aproveites a rede de autocarros dos SMTUC, pelo que todos os horários destes podem ser consultados através do website <a href="www.smtuc.pt">www.smtuc.pt</a>, da sua aplicação oficial ou através da aplicação Moovit. <b>Nota que durante todo o período em que decorre o ENE3 os horários em vigor são os de férias escolares.</b></p>
+
+        <p><b>Não é necessário que tragas o teu computador para nenhuma atividade do ENE3.</b></p>
+
+        <ul>
+            <li>
+                <h5>Alojamento em Pousada</h5>
+                <p>O check-in estará aberto das 9h às 11h. No ato de check-in deverás deixar logo tudo o que queiras no quarto onde ficarás hospedado. No ato de chegada, receberás todas as indicações, nomeadamente sobre o transporte entre a pousada e o local da Sessão de Abertura que se realizará a partir das 11h.</p>
+                <p>Deves-te dirigir até à Pousada da Juventude de Coimbra, localizada na Rua Dr. Henriques Seco, nº 14 (coordenadas GPS: 40.211039, -8.414008).</p>
+                <ul>
+                    <li>
+                        Caso venhas de comboio, é recomendável que saias na estação de Coimbra-A e apanhes um autocarro das linhas nº 6, nº 7 ou nº 29 dos SMTUC, procurando sair numa paragem próxima da Pousada, idealmente a paragem da Rua Augusto Rocha.
+                    </li>
+                    <li>
+                        Caso venhas de autocarro da Rede Expressos, após o desembarque no terminal de autocarro situado na Avenida Fernão Magalhães, deves apanhar o autocarro da linha nº 29 dos SMTUC, procurando sair numa paragem próxima da Pousada, idealmente a paragem da Rua Augusto Rocha.
+                    </li>
+                    <li>
+                        Caso venhas de carro, recomendamos que o estaciones junto da pousada ou junto do Departamento de Engenharia Eletrotécnica e de Computadores e, durante todo o evento, utilizes os transportes fornecidos pela organização.
+                    </li>
+                </ul>
+            </li>
+
+            <li>
+                <h5>Inscrição Normal ou em Grupo (alojamento em pavilhão)</h5>
+                <p>O check-in estará aberto das 9h às 11h. No ato de check-in deverás deixar logo tudo o que queiras no pavilhão, onde ficarás hospedado. No ato de chegada, receberás todas as indicações, nomeadamente sobre o transporte entre a pousada e o local da Sessão de Abertura que se realizará a partir das 11h.</p>
+                <p>A organização não se responsabiliza pelos teus pertences pelo que deves sempre garantir que os mesmos ficam guardados da forma mais segura e evitar trazer tudo o que é desnecessário. O pavilhão estará sempre encerrado durante o dia, após o momento de alvorada até à noite.</p>
+                <p>Se te inscreveste em grupo nota que o teu check-in é um ato individual pelo que cada um deve fazer o seu. Caso te tenhas inscrito em grupo mas não pretendes fazer uso do pavilhão, terás de te dirigir à mesmo ao pavilhão para fazer o check-in.</p>
+                <p>Deves-te dirigir até à Escola Secundária José Falcão, sita na Avenida Dom Afonso Henriques, nº 126 (coordenadas GPS: 40.211760, -8.413062). </p>
+                <ul>
+                    <li>
+                        Caso venhas de comboio, é recomendável que saias na estação de Coimbra-A e apanhes um autocarro das linhas nº 6, nº 7 ou nº 29 dos SMTUC, procurando sair numa paragem próxima da Escola, idealmente a paragem da Rua Augusto Rocha. Saindo na paragem indicada, a escola é o edifico que se encontra no topo da escadaria localizada junto à paragem.
+                    </li>
+                    <li>
+                        Caso venhas de autocarro da Rede Expressos, após o desembarque no terminal de autocarro situado na Avenida Fernão Magalhães, deves apanhar o autocarro da linha nº 29 dos SMTUC, procurando sair numa paragem próxima da Escola, idealmente a paragem da Rua Augusto Rocha. Saindo na paragem indicada, a escola é o edifico que se encontra no topo da escadaria localizada junto à paragem.
+                    </li>
+                    <li>
+                        Caso venhas de carro, recomendamos que o estaciones junto da pousada ou junto do Departamento de Engenharia Eletrotécnica e de Computadores e, durante todo o evento, utilizes os transportes fornecidos pela organização.
+                    </li>
+                </ul>
+            </li>
+
+            <li>
+                <h5>Inscrição Sem Estadia</h5>
+                <p>O check-in estará aberto entre as 9h e as 11h45.</p>
+                <p>Deves-te dirigir ao Departamento de Engenharia Eletrotécnica e de Computadores, Polo II da Universidade de Coimbra, entrando pela entrada principal do departamento (piso 2), situada na Rua Sílvio Lima (Coordenadas GPS: 40.186234, -8.416446).</p>
+                <ul>
+                    <li>
+                        Caso venhas de comboio, recomendamos que saias na estação de Coimbra-A e apanhes um autocarro da linha nº 38 dos SMTUC na paragem do Parque Verde de Coimbra, a cerca de 300 metros (coordenadas GPS: 40.206481, -8.428986), que te deixará em frente ao Departamento de Ciências da Terra, a cerca de 300 metros do DEEC.
+                    </li>
+                    <li>
+                        Caso venhas de autocarro da Rede Expressos, após o desembarque no terminal de autocarros situado na Avenida Fernão de Magalhães, deves apanhar o autocarro da linha nº 38 dos SMTUC, na paragem do Parque Verde de Coimbra, a cerca de 1,3 km (coordenadas GPS: 40.206481, -8.428986). Até essa paragem, poderás apanhar outro autocarro até à Portagem como por exemplo as linhas nº 29, 24T, 6, 7T, entre outros.
+                    </li>
+                    <li>
+                        Caso venhas de carro, recomendamos que o estaciones junto do Departamento de Engenharia Eletrotécnica e de Computadores e, durante todo o evento, utilizes os transportes fornecidos pela organização.
+                    </li>
+                </ul>
+                <p>O departamento estará identificado com sinalética do ENE3, pelo que não deverão ter problemas em identificar o local.</p>
+            </li>
+        </ul>
 
         <h3 id="discounts">Descontos</h3>
 

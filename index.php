@@ -51,7 +51,7 @@
 
         <p>Se ainda não te inscreveste, passa já na nossa página de <a href="register.php">inscrições</a> e seleciona o plano
             que melhor se ajusta às tuas preferências. Se já estás inscrito, passa pela página do <a href="event.php">evento</a>,
-            onde encontrarás informações sobre o evento, transportes e descontos.
+            onde encontrarás informações sobre o evento, transportes e descontos. Lê com atenção a secção sobre a tua <a href="event.php#in-coimbra">chegada a coimbra.</a>
         </p>
 
 
