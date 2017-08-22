@@ -87,7 +87,7 @@
         <div class="news_section">
             <div class="row news">
                 <div class="col-md-9">
-                    <b>[31 de Agosto]</b><br>
+                    <b>[21 de Agosto]</b><br>
                     As inscrições nos workshops do ENE3 começam AGORA! Não percas mais tempo e vai já a <a href="http://ene3.deec.uc.pt/workshops.php">http://ene3.deec.uc.pt/workshops.php</a> para garantires a tua vaga nos teus workshops preferidos! As inscrições encerram às 23H55 de Terça-feira, dia 22 de Agosto, por isso, avisa os teus amigos e apressa-te a fazer a inscrição!
                     <br><br>
 
