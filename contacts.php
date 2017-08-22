@@ -39,7 +39,7 @@
           </div>
           <div class="col-md-7 item contactcol map">
             <div class="map-box bottom-padding">
-                <iframe src="https://www.google.pt/maps?f=q&amp;source=s_q&amp;hl=pt-PT&amp;geocode=&amp;q=Departamento+de+Engenharia+Electrot%C3%A9cnica+e+de+Computadores,+Coimbra&amp;aq=0&amp;oq=departamento+de+engenharia+electrote&amp;sll=39.639538,-7.849731&amp;sspn=15.112933,19.753418&amp;t=m&amp;ie=UTF8&amp;hq=Departamento+de+Engenharia+Electrot%C3%A9cnica+e+de+Computadores,&amp;hnear=Coimbra&amp;ll=40.196782,-8.416216&amp;spn=0.024803,0.014301&amp;output=embed" frameborder="0" style="border: 0; width:100%; " ></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6095.891499791033!2d-8.419604301317966!3d40.18802074700759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd22f99534710f55%3A0x6f9fbebbec1bd8ea!2sDepartamento+de+Engenharia+Electrot%C3%A9cnica+e+de+Computadores!5e0!3m2!1spt-PT!2spt!4v1503399953970"" frameborder="0" style="border: 0; width:100%; " ></iframe>
             </div>
           </div>
         <div class = "clearfix"></div>
