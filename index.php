@@ -50,7 +50,8 @@
       <div class="container primary">
 
         <p>Se ainda não te inscreveste, passa já na nossa página de <a href="register.php">inscrições</a> e seleciona o plano
-        que melhor se ajusta às tuas preferências.
+            que melhor se ajusta às tuas preferências. Se já estás inscrito, passa pela página do <a href="event.php">evento</a>,
+            onde encontrarás informações sobre o evento, transportes e descontos.
         </p>
 
 
