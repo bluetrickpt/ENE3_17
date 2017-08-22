@@ -86,16 +86,15 @@
         <div class="news_section">
             <div class="row news">
                 <div class="col-md-9">
-                    <b>[30 de Julho]</b><br>
-                    Miguel Nascimento é o grande vencedor do nosso concurso. Ele e mais 4 amigos já têm lugar garantido no ENE3 2017. E tu o que esperas?
-                    Inscrições e informações em <a href="ene3.deec.uc.pt/register/">ene3.deec.uc.pt/register/</a>
+                    <b>[31 de Agosto]</b><br>
+                    As inscrições nos workshops do ENE3 começam AGORA! Não percas mais tempo e vai já a <a href="http://ene3.deec.uc.pt/workshops.php">http://ene3.deec.uc.pt/workshops.php</a> para garantires a tua vaga nos teus workshops preferidos! As inscrições encerram às 23H55 de Terça-feira, dia 22 de Agosto, por isso, avisa os teus amigos e apressa-te a fazer a inscrição!
                     <br><br>
 
                 </div>
 
                 <div class="col-md-3">
                     <p style="text-align: right;">
-                        <img class="news_image" src="https://scontent.fopo1-1.fna.fbcdn.net/v/t1.0-9/20476451_1465069710226500_5669407331792807863_n.jpg?oh=8e249649e70f855f31fd0d5fef516aa0&oe=5A31352F">
+                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-0/p480x480/21034171_1484557871611017_59792131905948288_n.jpg?oh=1a2442a6e9cc6840be59cb95c431ce62&oe=5A2ECA27">
                     </p>
                 </div>
             </div>
@@ -105,63 +104,22 @@
             <div class="row news">
                 <div class="col-md-3">
                     <p style="text-align: left;">
-                        <img class="news_image" src="https://scontent.fopo1-1.fna.fbcdn.net/v/t1.0-9/20246302_1460330617367076_3276680113696027720_n.jpg?oh=3f69d1e49305975d805797a2ec30df95&oe=59EE969D">
+                        <img class="news_image" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.0-0/p480x480/20768246_1475826925817445_5586872339500195285_n.jpg?oh=5bb6562af7e4151896b3741698c3c590&oe=5A29958E">
                     </p>
                 </div>
 
                 <div class="col-md-9">
-                    <b>[25 de Julho]</b>
+                    <b>[20 de Agosto]</b>
 
                     <br>
-                    As regras são simples:
-                    <ul>
-                        <li>Mete like na página <a href="facebook.com/ene3.portugal/">facebook.com/ene3.portugal/</a></li>
-                        <li>Partilha esta publicação em modo público</li>
-                        <li>Identifica 4 amigos teus na forma de comentário</li>
-                    </ul>
-
+                    ÚLTIMA HORA DE INSCRIÇÕES!!! Estamos na última hora de inscrições para o ENE3, esta é a última chamada!
                     <br><br>
-                    <p>O vencedor ganha CINCO entradas grátis com tudo incluído, nomeadamente dormidas e alimentação.</p>
-
-                    <br><br>
-                    <p>
-                        Caso já te tenhas inscrito, a tua inscrição será paga!
-                        O concurso termina às 20h do dia 30 de Julho de 2017.
-                        O vencedor será anunciado às 21h do dia 30 de Julho de 2017.
-                    </p>
-
-                    <br><br>
-                    <p>Regulamento em <a href="https://goo.gl/YrFbEF">https://goo.gl/YrFbEF</a></p>
+                    Inscrições em <a href="http://ene3.deec.uc.pt/register">http://ene3.deec.uc.pt/register</a>
 
 
                 </div>
             </div>
 
-            <hr>
-
-            <div class="row news">
-                <div class="col-md-9">
-                    <b>[29 de Julho]</b>
-                    No ENE3 vais ter a oportunidade de aprender sobre domótica e automação direcionada a habitações!
-                    <br><br>
-                    Este workshop vai ser lecionado por Filipe Pinto e Isabel Borges.
-
-                    <br><br>
-                    <p>
-                        Isabel Borges has an engineering and MSc degree from Aveiro University and has been working on applied research on several national and international R&D programs since 1991. She has been responsible for the technology and services training and certification division, managing all training design, development, production and promotion of courses either in- or out-of-company. She has an active participation in several European programs and is currently working on RDI on IoT. She is an external evaluator of projects for the Innovation Agency, a reviewer of IEEE Communications Magazine and she is also author or co-author of several publications and books.
-                    </p>
-
-                    <p>
-                        Filipe Cabral Pinto holds a PhD in telecommunications from Queen Mary University of London and an engineer degree from University of Coimbra. He is a highly accomplished Telecommunications Professional with 5+ years of experience in IoT solutions. He has a comprehensive knowledge of telecommunications system at network, control, and service layers. He is an Innovative strategist with a track record of success in identifying opportunities for International RDI projects. He is skilled as a regular speaker in several conferences around the domain. He is author of more than 35 technical publications and inventor of a patent on the radio area.
-                    </p>
-                </div>
-
-                <div class="col-md-3">
-                    <p style="text-align: right;">
-                        <img class="news_image" src="https://scontent.fopo1-1.fna.fbcdn.net/v/t1.0-0/p480x480/20429828_1464168996983238_3179910594676220184_n.jpg?oh=28463f565ed7a79020df5e444b8d1575&oe=5A36D8D1">
-                    </p>
-                </div>
-            </div>
 
 
             <hr>
