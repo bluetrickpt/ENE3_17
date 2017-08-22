@@ -81,3 +81,12 @@ td, th {
     vertical-align: text-top;
 }
 
+@media (min-width: 768px) {
+    ul.nav li.dropdown:hover > ul.dropdown-menu {
+        display: block;
+    }
+}
+
+.navbar .dropdown-menu {
+    margin-top: 0px;
+}
