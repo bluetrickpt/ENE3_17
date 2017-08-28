@@ -29,7 +29,12 @@
 
         <p>
             <b>Nota:</b> Esta página encontra-se em constante actualização. Novas actividades serão adicionadas e mais
-            detalhes vão sendo publicitados. <br>Última actualização: 22-Agosto-2017.
+            detalhes vão sendo publicitados. <br>Última actualização às
+            <?php
+            setlocale(LC_ALL, 'pt_PT');
+            date_default_timezone_set('Europe/Lisbon');
+            echo strftime("%T de %d %B %Y", filemtime(__FILE__));
+            ?>
         </p>
 
         <p>
