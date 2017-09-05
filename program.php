@@ -45,6 +45,7 @@
             Mantém-te atento às nossas redes sociais (<a href="https://www.facebook.com/ene3.portugal">Facebook</a> e
             <a href="https://www.instagram.com/ene3.2017/">Instagram</a>) para apanhares as últimas novidades.
         </p>
+
         <div id="program_table"></div>
     </div>
 
