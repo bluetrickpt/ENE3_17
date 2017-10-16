@@ -34,11 +34,12 @@
 
     <p style="margin-top: 20px">
         Se estás interessado em organizar o próximo ENE3, lê cuidadosamente o regulamento abaixo e envia-nos a tua candidatura
-        para o mail <a href="mailto:candidaturas.ene3@gmail.com?Subject=Candidatura%20ENE3%202018">candidaturas.ene3@gmail.com</a>
+        para <a href="mailto:candidaturas.ene3@gmail.com?Subject=Candidatura%20ENE3%202018">candidaturas.ene3@gmail.com</a>.
+        Qualquer dúvida sobre as candidaturas, contacta-nos também por <a href="mailto:candidaturas.ene3@gmail.com">candidaturas.ene3@gmail.com</a>.
     </p>
 
     <p class="text-center" style="margin: 70px">
-        <b><a href="docs/regulamento.pdf">Regulamento</a></b>
+        <b><a href="docs/Regulamento_ENE3.pdf">Regulamento</a></b>
     </p>
 
 
